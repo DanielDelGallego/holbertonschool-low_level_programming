@@ -1,13 +1,12 @@
 #include <stdio.h>
 /**
- * main - Description.
+ * main - The program begins
  *
- * Return: Always (0).
+ * Return: 0 is a success.
  */
 
 int main(void)
-
 {
-Printf("with proper grammar, but the outcome is a piece of art,\n");
+printf("with proper grammar, but the outcome is a piece of art,/n");
 return (0);
 }
